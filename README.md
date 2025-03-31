@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**AshuSurana/AshuSurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 😄
 
-Here are some ideas to get you started:
+Hi, I'm Ashu Surana! I'm a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, automation, and data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently working as a **FullStack Developer**
+- 🔭 I’m currently working on **ReactJs**, **Firebase**', and **Python/Flask**
+- 🌱 I’m currently learning **Next.js**, and **Prisma**
+- 💬 Ask me about **Python**, **SQl**, and **Frontend technologyis-HTML/CSS/JavaScripit/React.js**.
+- 📫 How to reach me: [surana.ashu@gmail.com](surana.ashu@gmail.com)
+
+## 📫 Connect with Me
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ashu-surana/)
