@@ -16,3 +16,18 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ashu-sura
 📩 Email: [surana.ashu@gmail.com](surana.ashu@gmail.com)
 
 Let's collaborate on exciting projects and build something amazing! 🚀
+
+### Languages and Technologies
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,html,css,c,docker" />
+</a>
+
+### Frameworks and Libraries
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,firebase,mongodb,mysql,postgres,materialui" />
+</a>
+
+### Tools and Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,npm,yarn,postman" />
+</a>
