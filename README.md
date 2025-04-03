@@ -1,3 +1,4 @@
+![I'm a Software Engineer (1)](https://github.com/AshuSurana/AshuSurana/assets/116132492/b94b840c-ca76-415d-afde-4f8d6ca506c0)
 # Welcome to My GitHub Profile! 👋
 
 ## About Me 😄
